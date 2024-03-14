@@ -5,7 +5,7 @@ const CatApp = () => {
   return (
     <View>
       
-      <Text>Hello, I afferererffm hi cat!</Text>
+      <Text>Hello, I parakkrama hi cat!</Text>
     </View>
   );
 };
